@@ -1,0 +1,47 @@
+/*--<980--*/
+@media only screen and (max-width: 980px) {
+    table {
+        width: 900px;
+    }
+    button {
+        font-size: 11px;
+        margin-left: 30px;
+    }
+    img {
+        height: 150px;
+        width: 270px;
+    }
+}
+/*--<750--*/
+@media only screen and (max-width:755px) {
+    table {
+        width: 730px;
+    }
+    button {
+        font-size: 11px;
+        margin-left: 30px
+    }
+    img {
+        height: 100px;
+        width: 200px;
+    }
+}
+/*--<500--*/
+@media only screen and (max-width:500px) {
+    table {
+        width: 250px;
+    }
+    button {
+        font-size: 9px;
+        margin-left: 12px;
+    }
+    img {
+        height: 100px;
+        width: 100px;
+    }
+    p {
+        font-size: 12px}
+}
+    
+
+/*--Pixel Detection is hard!--*/

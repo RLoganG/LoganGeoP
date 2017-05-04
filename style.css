@@ -1,0 +1,69 @@
+tr, td {
+    border: 3px solid black;
+    padding: 15px;
+    width: 500px;
+    height: 200px;
+    }
+
+.subtitle {
+    font-size: 16px;
+    margin-left: 35px;
+}
+
+header{
+    background-color: goldenrod;
+    font-size: 44px;
+    font-family: 'Raleway', sans-serif;
+}
+
+nav {
+    background-color: #6A6144;
+    margin-top: -16px;
+    font-family: 'Cuprum', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: transparent;
+    border: none !important;
+    color: white;
+    font-size: 20px;
+    margin-left: 60px;
+    text-decoration: none;
+    
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'Cuprum', sans-serif;
+    margin-top: 5px
+}
+
+p {
+    font-family: 'Cuprum', sans-serif;
+}
+
+.price {
+    text-align: right;
+    margin-top: -40px
+}
+
+h1 {
+    font-family: 'Cuprum', sans-serif;
+}
+img {
+    height: auto;
+}
+
+.mug {
+    height: 200px;
+    width: 200px;
+    margin-left: 35px;
+}
+
+a {
+    text-decoration: none;
+}
